@@ -1,0 +1,27 @@
+@media only screen and (min-width: 769px) and (max-width: 1400px) {
+    #bloco-dados-iniciais-nfe-selects {
+        margin-top: -1.2%;
+    }
+
+    .dados-iniciais-nfe {
+        padding: 10px 10px 10px 10px;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital@1&display=swap');
+
+h4 {
+    color: rgb(15, 77, 0);
+}
+
+* {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.dados-iniciais-nfe {
+    border-top: 1px dashed rgb(0, 0, 0);
+}
+
+.border-green {
+    border: 2px solid rgb(30, 255, 0);
+}
